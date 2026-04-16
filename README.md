@@ -15,4 +15,7 @@ Apollo Research
 
 #### Let's Connect
 If you're working on mech interp, AI safety, or alignment — I'd love to collaborate, exchange ideas, or just geek out about circuits and features.
+
 X: https://x.com/exploding_grad
+Medium: https://medium.com/@tvenkatchid
+LinkedIn: https://www.linkedin.com/in/venkat-t-987826160/
