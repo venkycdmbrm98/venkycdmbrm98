@@ -2,9 +2,9 @@
 
 #### I'm an AI Engineer currently experimenting at the intersection of:
 
-AI Alignment - ensuring AI systems pursue goals that are genuinely beneficial to humans
-AI Safety - understanding failure modes and building systems that behave as intended
-Mechanistic Interpretability - reverse-engineering how neural networks actually work, one circuit at a time
+AI Alignment - ensuring AI systems pursue goals that are genuinely beneficial to humans  
+AI Safety - understanding failure modes and building systems that behave as intended  
+Mechanistic Interpretability - reverse-engineering how neural networks actually work, one circuit at a time  
 
 #### Research I follow closely:
 
